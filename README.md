@@ -1,6 +1,6 @@
 # Options Pricing Model
 
-This repository provides tools for evaluating the fair value of financial options—contracts that grant their holders the right (but not the obligation) to buy or sell an underlying asset at a set strike price before expiration. The project includes implementations of the Black-Scholes analytic formula, binomial tree models, and related utilities, as well as interactive web UIs built with Streamlit.
+This repository provides tools for evaluating the fair value of financial options—contracts that grant their holders the right (but not the obligation) to buy or sell an underlying asset at a set strike price before expiration. The project includes implementations of the Black-Scholes analytic formula, binomial tree models, and related utilities, as well as interactive web UIs built with Streamlit. This project was a final project for a CS course at UofT.
 
 ## Black-Scholes Model (1973)
 
